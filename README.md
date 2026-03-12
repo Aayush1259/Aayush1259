@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aayush+Modi](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aayush+Modi)+👋;Backend+%26+AI+Engineer;MSCS+Candidate+%40+UW+Tacoma;Graduating+Spring+2027;Strategic+Problem+Solver+♟️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aayush+Modi+👋;Backend+%26+AI+Engineer;MSCS+Candidate+%40+UW+Tacoma;Graduating+Spring+2027;Strategic+Problem+Solver+♟️&v=1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="[https://aayushmodi-portfoilo.netlify.app](https://aayushmodi-portfoilo.netlify.app)"><img src="[https://img.shields.io/badge/Live_Portfolio-7AA2F7?style=for-the-badge&logo=Web&logoColor=white](https://img.shields.io/badge/Live_Portfolio-7AA2F7?style=for-the-badge&logo=Web&logoColor=white)" alt="Portfolio" /></a>
-  <a href="[https://linkedin.com/in/aayushmodi18](https://linkedin.com/in/aayushmodi18)"><img src="[https://img.shields.io/badge/LinkedIn_Connect-1A2B4C?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn_Connect-1A2B4C?style=for-the-badge&logo=linkedin)" alt="LinkedIn" /></a>
+  <a href="https://aayushmodi-portfoilo.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-7AA2F7?style=for-the-badge&logo=Web&logoColor=white&v=1" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aayushmodi18"><img src="https://img.shields.io/badge/LinkedIn_Connect-1A2B4C?style=for-the-badge&logo=linkedin&v=1" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=py,cpp,c,gcp,tensorflow,docker,firebase,linux,bash,git&theme=dark](https://skillicons.dev/icons?i=py,cpp,c,gcp,tensorflow,docker,firebase,linux,bash,git&theme=dark)" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,gcp,tensorflow,docker,firebase,linux,bash,git&theme=dark&v=1" alt="Tech Stack" />
 </p>
 
 ---
@@ -68,16 +68,16 @@
 ### 📊 System Analytics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true](https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)" alt="GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1259&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1259&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1259&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Aayush1259&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=Aayush1259&theme=tokyonight&hide_border=true&background=0D1117)" alt="Aayush's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1259&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Aayush's Streak" />
 </p>
 
 ---
 <p align="center">
   <i>"Let the path be your guide, but write the code to pave it."</i><br><br>
-  <img src="[https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAayush1259&count_bg=%237AA2F7&title_bg=%231A2B4C&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAayush1259&count_bg=%237AA2F7&title_bg=%231A2B4C&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAayush1259&count_bg=%237AA2F7&title_bg=%231A2B4C&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false&v=1" alt="Visitor Count" />
 </p>
