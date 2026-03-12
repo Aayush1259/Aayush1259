@@ -79,5 +79,5 @@
 ---
 <p align="center">
   <i>"Let the path be your guide, but write the code to pave it."</i><br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAayush1259&count_bg=%237AA2F7&title_bg=%231A2B4C&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false&v=1" alt="Visitor Count" />
+ <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAayush1259&label=PROFILE+VIEWS&countColor=%237AA2F7&style=for-the-badge" alt="Visitor Count" />
 </p>
