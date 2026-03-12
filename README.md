@@ -15,7 +15,7 @@
 {
   "name": "Aayush Modi",
   "current_role": "MSCS Graduate Student @ UW Tacoma",
-  "graduating": "Spring 2027",
+  "graduating": "December 2026",
   "focus": ["Backend Architecture", "Distributed Systems", "Multimodal AI", "Data Pipelines"],
   "philosophy": "Treat every complex problem as a system waiting to be optimized.",
   "mindset": "Strategic, 'several-moves-ahead' thinking (Competitive Chess ♟️)"
