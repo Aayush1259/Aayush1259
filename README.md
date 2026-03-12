@@ -50,7 +50,7 @@
   <br>
   <ul>
     <li>🧠 <b>Strategy:</b> Builder of stock market prediction models and avid chess player.</li>
-    <li>🥘 <b>Culture:</b> Master of traditional Indian vegetarian cuisine (always chasing the perfect Dal Fry!).</li>
+    <li>🥘 <b>Culture:</b> Can cook traditional Indian vegetarian cuisine (always chasing perfection).</li>
     <li>🏋️ <b>Discipline:</b> Dedicated to a structured strength-training routine.</li>
   </ul>
 </details>
