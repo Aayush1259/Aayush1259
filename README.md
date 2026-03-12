@@ -1,15 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aayush+Modi+👋;Backend+%26+AI+Engineer;MSCS+Candidate+%40+UW+Tacoma;Competitive+Chess+Player+♟️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aayush+Modi+👋;Backend+%26+AI+Engineer;MSCS+Candidate+%40+UW+Tacoma;Strategic+Problem+Solver+♟️" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://aayushmodi-portfoilo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live_Playground-2196F3?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/aayushmodi18"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://aayushmodi-portfoilo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live_Playground-7AA2F7?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aayushmodi18"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A2B4C?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🚀 The "Keep Learning" Playground
+<h3 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> The "Keep Learning" Playground 
+</h3>
 
 I am a Software Engineer currently pursuing my Master of Science in Computer Science & Systems at the University of Washington, Tacoma. I specialize in building secure, scalable backend architectures and integrating multimodal LLMs into production environments.
 
@@ -17,7 +19,7 @@ My approach to engineering is driven by a strategic, "several-moves-ahead" minds
 
 ---
 
-### 📂 Interactive Directory (Click to Expand)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" /> Interactive Directory (Click to Expand)
 
 <details>
   <summary><b>🧠 Current Quests</b></summary>
@@ -49,7 +51,7 @@ My approach to engineering is driven by a strategic, "several-moves-ahead" minds
 
 ---
 
-### 🛠️ Tech Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -63,15 +65,25 @@ My approach to engineering is driven by a strategic, "several-moves-ahead" minds
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> Real-Time Analytics Dashboard
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1259&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aayush's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1259&theme=radical&hide_border=true&background=0D1117" alt="Aayush's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1259&theme=tokyonight&hide_border=true&background=0D1117" alt="Aayush's Streak" />
 </p>
 
 ---
 <p align="center">
   <i>"Let the path be your guide, but write the code to pave it."</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Aayush1259&color=2196F3&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Aayush1259&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
