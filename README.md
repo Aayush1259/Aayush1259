@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aayush+Modi+👋;Backend+%26+AI+Engineer;MSCS+Candidate+%40+UW+Tacoma;Graduating+Decemeber+2026;Strategic+Problem+Solver+♟️&v=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aayush+Modi+👋;Backend+%26+AI+Engineer;MSCSS+Candidate+%40+UW+Tacoma;Graduating+Decemeber+2026;Strategic+Problem+Solver+♟️&v=1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ```json
 {
   "name": "Aayush Modi",
-  "current_role": "MSCS Graduate Student @ UW Tacoma",
+  "current_role": "MSCSS Graduate Student @ UW Tacoma",
   "graduating": "December 2026",
   "focus": ["Backend Architecture", "Distributed Systems", "Multimodal AI", "Data Pipelines"],
   "philosophy": "Treat every complex problem as a system waiting to be optimized.",
