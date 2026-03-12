@@ -16,7 +16,7 @@ I am a software engineer specializing in distributed systems, data infrastructur
 
 ### 📈 GitHub Stats
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush1259&show_icons=true&theme=radical)
-*(Note: Replace 'Aayush1259' with your exact GitHub username to generate this live stats card!)*
+
 
 ### 📫 Let's Connect
 * **Portfolio:** [aayushmodi-portfoilo.netlify.app](https://aayushmodi-portfoilo.netlify.app/)
