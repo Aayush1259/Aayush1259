@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="[https://aayushmodi-portfoilo.netlify.app](https://aayushmodi18.netlify.app/)"><img src="https://img.shields.io/badge/Live_Portfolio-7AA2F7?style=for-the-badge&logo=Web&logoColor=white&v=1" alt="Portfolio" /></a>
+  <a href="https://aayushmodi18.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-7AA2F7?style=for-the-badge&logo=Web&logoColor=white&v=1" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/aayushmodi18"><img src="https://img.shields.io/badge/LinkedIn_Connect-1A2B4C?style=for-the-badge&logo=linkedin&v=1" alt="LinkedIn" /></a>
 </p>
 
